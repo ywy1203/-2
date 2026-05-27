@@ -1,0 +1,6 @@
+{
+  "name": "台账管理（新）独立项目",
+  "description": "企业级台账维护与智能分析工作台，集目录、明细CRUD、导入导出、质量治理与可视化分析于一体。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
